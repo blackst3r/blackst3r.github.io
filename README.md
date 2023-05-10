@@ -50,3 +50,14 @@ Twitter data platform analytics, The University of Chicago
 🇺🇸 **Chinese**: Native <br>
 🇩🇪 **English**: Fluence
 <br><br>
+
+## 👩🏼‍🎓 Education
+
+**Master of Applied Data science** 
+[Univeristy of Chicago](https://www.uchicago.edu/) - Chicago, IL, USA _(2022 - 2023)_
+
+**International Exchange** studying Maching Learning<br>
+[Yale University](https://yeditepe.edu.tr/en) - New Haven, CT, USA _(2020)_
+
+**Bachelor of Business Statistics ** in Journalism and Media Studies<br>
+[Monash Univerisity](https://www.monash.edu/) - Beloit, Wisconsin, USA _(2018 - 2021)_
