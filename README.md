@@ -53,7 +53,7 @@ Twitter data platform analytics, The University of Chicago
 
 ## 👩🏼‍🎓 Education
 
-**Master of Applied Data science** 
+**Master of Applied Data science**<br> 
 [Univeristy of Chicago](https://www.uchicago.edu/) - Chicago, IL, USA _(2022 - 2023)_
 
 **International Exchange** studying Maching Learning<br>
